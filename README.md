@@ -79,7 +79,8 @@ Neural Forward Scheme  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; Neural 
 
 [1] F. Alteküger, J. Hertrich and G. Steidl.  
 Neural Wasserstein Gradient Flows for Discrepancies with Riesz Kernels.   
-ArXiv Preprint#2301.11624
+ArXiv Preprint#2301.11624  
+Accepted at: International Conference on Machine Learning 2023.
 
 [2] Y. LeCun, L. Bottou, Y. Bengio and P.  Haffner.  
 Gradient-based learning applied to document recognition.  
