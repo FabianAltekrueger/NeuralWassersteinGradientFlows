@@ -38,7 +38,7 @@ You can start the experiments by starting the scripts `run_xxx.py`.
 The script `run_interaction.py` is the implementation of the Wasserstein gradient flow for the interaction energy. Details of the expermient can be found in Section 6.1 of [1].
 
 
-<img src="https://github.com/FabianAltekrueger/NeuralWassersteinGradientFlows/blob/main/animations/NeuralForwardScheme_interaction.gif" width="250" /> &emsp; &emsp; &emsp;    <img src="https://github.com/FabianAltekrueger/NeuralWassersteinGradientFlows/blob/main/animations/NeuralForwardScheme_interaction.gif" width="250" /> 
+<img src="https://github.com/FabianAltekrueger/NeuralWassersteinGradientFlows/blob/main/animations/NeuralForwardScheme_interaction.gif" width="250" /> &emsp; &emsp; &emsp;    <img src="https://github.com/FabianAltekrueger/NeuralWassersteinGradientFlows/blob/main/animations/NeuralBackwardScheme_interaction.gif" width="250" /> 
 
 Neural Forward Scheme  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Neural Backward Scheme
 
