@@ -2,7 +2,7 @@
 
 This code belongs to the paper [1]. Please cite the paper, if you use this code.
 
-The paper [1] is available at https://arxiv.org/abs/2301.11624.
+The paper [1] is available at https://proceedings.mlr.press/v202/altekruger23a.html.
 
 The repository contains an implementation of Neural backward scheme and Neural forward scheme as introduced in [1]. It contains scripts for reproducing the numerical examples in Section 6.
 
@@ -79,8 +79,8 @@ Neural Forward Scheme  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; Neural 
 
 [1] F. Alteküger, J. Hertrich and G. Steidl.  
 Neural Wasserstein Gradient Flows for Discrepancies with Riesz Kernels.   
-ArXiv Preprint#2301.11624  
-Accepted at: International Conference on Machine Learning 2023.
+International Conference on Machine Learning 2023.   
+Proceedings of Machine Learning Research, vol. 202, pp. 664-690.
 
 [2] Y. LeCun, L. Bottou, Y. Bengio and P.  Haffner.  
 Gradient-based learning applied to document recognition.  
