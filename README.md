@@ -2,7 +2,7 @@
 
 This code belongs to the paper [1]. Please cite the paper, if you use this code.
 
-The paper [1] is available at https://proceedings.mlr.press/v202/altekruger23a.html.
+The paper [1] is available at https://proceedings.mlr.press/v202/altekruger23a.html. A poster and a small paper pitch is available at https://icml.cc/virtual/2023/poster/24874.
 
 The repository contains an implementation of Neural backward scheme and Neural forward scheme as introduced in [1]. It contains scripts for reproducing the numerical examples in Section 6.
 
